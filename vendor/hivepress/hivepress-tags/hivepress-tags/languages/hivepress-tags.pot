@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-24 19:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/configs/taxonomies.php:21
+msgid "Add Tag"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allow users to set listing tags."
+msgstr ""
+
+#: includes/configs/taxonomies.php:22
+msgid "Edit Tag"
+msgstr ""
+
+#. Author of the plugin
+msgid "HivePress"
+msgstr ""
+
+#. Name of the plugin
+msgid "HivePress Tags"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/configs/strings.php:14
+msgid "Listing Tags"
+msgstr ""
+
+#: includes/configs/taxonomies.php:26
+msgid "No tags found."
+msgstr ""
+
+#: includes/configs/taxonomies.php:25
+msgid "Search Tags"
+msgstr ""
+
+#: includes/configs/taxonomies.php:20
+msgid "Tag"
+msgstr ""
+
+#: includes/components/class-tag.php:73 includes/components/class-tag.php:82
+#: includes/components/class-tag.php:103 includes/configs/taxonomies.php:19
+msgid "Tags"
+msgstr ""
+
+#: includes/configs/taxonomies.php:23
+msgid "Update Tag"
+msgstr ""
+
+#: includes/configs/taxonomies.php:24
+msgid "View Tag"
+msgstr ""
